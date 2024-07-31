@@ -1,0 +1,3 @@
+[submodule "frontend-food"]
+	path = frontend-food
+	url = git@github.com:savvichhika/frontend-food.git
